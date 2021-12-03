@@ -1,0 +1,74 @@
+[
+  {
+    "SquareFTRate": 38,
+    "NewFTERate": "1,400",
+    "ExistingFTERate": 500,
+    "OngoingSqFtRate": 12,
+    "OngoingFTERate": 200,
+    "TypeofSpace": "Medium Casino (McAlester)"
+  },
+  {
+    "SquareFTRate": 24,
+    "NewFTERate": "2,800",
+    "ExistingFTERate": 150,
+    "OngoingSqFtRate": 6,
+    "OngoingFTERate": 100,
+    "TypeofSpace": "Retail"
+  },
+  {
+    "SquareFTRate": 67,
+    "NewFTERate": "2,500",
+    "ExistingFTERate": 150,
+    "OngoingSqFtRate": 6,
+    "OngoingFTERate": 100,
+    "TypeofSpace": "Small Casino (Casino Too/ Travel Plaza)"
+  },
+  {
+    "SquareFTRate": 112,
+    "NewFTERate": "2,500",
+    "ExistingFTERate": 150,
+    "OngoingSqFtRate": 6,
+    "OngoingFTERate": 100,
+    "TypeofSpace": "Large Casino (Pocola w/300rm Hotel)"
+  },
+  {
+    "SquareFTRate": 112,
+    "NewFTERate": "2,500",
+    "ExistingFTERate": 50,
+    "OngoingSqFtRate": 6,
+    "OngoingFTERate": 50,
+    "TypeofSpace": "Small Health Site (Limited Services Clinic/ Wellness Center)"
+  },
+  {
+    "SquareFTRate": 112,
+    "NewFTERate": "2,500",
+    "ExistingFTERate": 100,
+    "OngoingSqFtRate": 3,
+    "OngoingFTERate": 100,
+    "TypeofSpace": "Medium Health Site (Regional Clinic)"
+  },
+  {
+    "SquareFTRate": 112,
+    "NewFTERate": "2,500",
+    "ExistingFTERate": 150,
+    "OngoingSqFtRate": 15,
+    "OngoingFTERate": 150,
+    "TypeofSpace": "Large Health Site (Clinic w/ OR Services)"
+  },
+  {
+    "SquareFTRate": 112,
+    "NewFTERate": "2,500",
+    "ExistingFTERate": 250,
+    "OngoingSqFtRate": 10,
+    "OngoingFTERate": 200,
+    "TypeofSpace": "Government"
+  },
+  {
+    "SquareFTRate": 112,
+    "NewFTERate": "2,500",
+    "ExistingFTERate": 200,
+    "OngoingSqFtRate": 5,
+    "OngoingFTERate": 250,
+    "TypeofSpace": "Warehouse"
+  }
+]
